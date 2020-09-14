@@ -1,2 +1,2 @@
 # Google-Calendar Project
-This project is for CS 151 SJSU. A Google Calendar version  
+Replication of most funcitonalities of google calendar.  
